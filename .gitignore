@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs
+outputs/
+
+# Processed data (optional)
+data/processed/
+
+# Hugging Face cache
+.cache/
