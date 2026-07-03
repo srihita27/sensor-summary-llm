@@ -30,6 +30,7 @@ Instead of manually analyzing thousands of sensor readings, SensorGPT automatica
 
 # 🚀 Features
 
+
 | Feature | Description |
 |---------|-------------|
 | 📂 Data Preprocessing | Cleans and prepares raw sensor data |
