@@ -221,8 +221,6 @@ For detailed system design and workflow diagrams, refer to:
 
 **Srihita Kotagiri**
 
-Computer Science Undergraduate | AI & Software Development Enthusiast
-
 ---
 
 <p align="center">
