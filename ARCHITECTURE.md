@@ -70,6 +70,7 @@ The architecture is modular, allowing each component to operate independently wh
                  | final_summary.csv                     |
                  +---------------------------------------+
 ```
+<img width="1536" height="1024" alt="ChatGPT Image Jul 3, 2026, 08_44_25 AM (1)" src="https://github.com/user-attachments/assets/ba46e222-cd5c-4784-95c2-49a0b36931d8" />
 
 ---
 
