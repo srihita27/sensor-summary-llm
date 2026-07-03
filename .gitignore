@@ -15,8 +15,5 @@ __pycache__/
 # Outputs
 outputs/
 
-# Processed data (optional)
-data/processed/
-
 # Hugging Face cache
 .cache/
