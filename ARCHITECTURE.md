@@ -258,43 +258,8 @@ sensor-summary-llm/
 
 # 9. Data Flow Diagram
 
-```text
-+----------------------+
-|  Raw Sensor Dataset  |
-+----------+-----------+
-           |
-           ▼
-+----------------------+
-|  Data Preprocessing  |
-+----------+-----------+
-           |
-           ▼
-+----------------------+
-| Feature Engineering  |
-+----------+-----------+
-           |
-           ▼
-+----------------------+
-| Anomaly Detection    |
-+----------+-----------+
-           |
-           ▼
-+----------------------+
-| Prompt Engineering   |
-+----------+-----------+
-           |
-           ▼
-+----------------------+
-| Lightweight LLM      |
-+----------+-----------+
-           |
-           ▼
-+----------------------+
-| Generated Summary    |
-+----------------------+
-```
+<img width="1024" height="1536" alt="ChatGPT Image Jul 3, 2026, 08_44_25 AM (2)" src="https://github.com/user-attachments/assets/ac91dacc-7e3f-4498-ab1c-cde5fbd93815" />
 
----
 
 # 10. Design Principles
 
@@ -324,36 +289,8 @@ The current implementation has the following constraints:
 
 Future versions of SensorGPT will extend the current architecture by incorporating:
 
-```text
-                   Live IoT Sensors
-                           │
-                           ▼
-                     MQTT / Kafka
-                           │
-                           ▼
-                   Stream Processing
-                           │
-                           ▼
-                  Feature Engineering
-                           │
-                           ▼
-                 Anomaly Detection
-                           │
-                           ▼
-                    Vector Database
-                           │
-                           ▼
-                     RAG Pipeline
-                           │
-                           ▼
-                 Large Language Model
-                           │
-                           ▼
-              Streamlit Web Dashboard
-                           │
-                           ▼
-                Conversational AI Chat
-```
+<img width="1536" height="1024" alt="ChatGPT Image Jul 3, 2026, 08_44_26 AM (4)" src="https://github.com/user-attachments/assets/c1037bc0-ae37-4b81-b4d4-a452a7acb487" />
+
 
 Future enhancements include:
 
